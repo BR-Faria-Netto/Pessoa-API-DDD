@@ -1,0 +1,7 @@
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.csproj.AssemblyReference.cache
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.AssemblyInfoInputs.cache
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.AssemblyInfo.cs
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T490\source\repos\DDD\WebApplication1\obj\Debug\net6.0\1 - Aplicacao.MvcApplicationPartsAssemblyInfo.cache
